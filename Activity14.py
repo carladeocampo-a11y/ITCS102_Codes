@@ -26,7 +26,7 @@ if age >=21 and isEmployed == True :
             print("Your base rate is ", base_rate)
         elif annual_income <= 40000:
             print("Low annual income")
-            base_rate = 9.0
+            base_rate = 9.5
             print("Your base rate is ", base_rate)
         else:
             base_rate = 8.0 
